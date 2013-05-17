@@ -1,13 +1,13 @@
 
 body {
     padding: 20px;
-    background: url(/img/yellow_background1.jpg);
+    background: url(/img/yellow_background2.png);
 }
 a {
-    color: #0B5FA5
+    color: #0B5FA5;
 }
 a:hover {
-    color: #043C6B
+    color: #043C6B;
 }
 p {
     font-size: 16px;
