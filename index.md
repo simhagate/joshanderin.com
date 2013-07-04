@@ -3,6 +3,16 @@ layout: default
 title: Josh and Erin
 ---
 
-# Josh and Erin
+<div id="posts">
 
-adventuring and  accommpanying
+    <ul>
+    {% for post in site.posts %}
+        <li>
+            <a href="{{ post.url }}">
+                {{ post.title }}
+            </a>
+        </li>
+    {% endfor %}
+    </ul>
+
+</div>
