@@ -38,45 +38,46 @@
 </head>
 <body>
 
-    <div class="container">
+    <div class="container pull-left">
 
 	<!-- The page header typically contains items such as your site heading, logo and possibly the main site navigation -->
 	<!-- ARIA: the landmark role "banner" is set as it is the prime heading or internal title of the page --> 
-	<header role="banner" class="subhead">
-	
-		<!-- ARIA: the landmark role "navigation" is added here as the element contains site navigation -->
-		<div class="subnav">
-			<!-- This can contain your site navigation either in an unordered list or even a paragraph that contains links that allow users to navigate your site -->
-            <ul class="nav nav-pills pull-right">
-                <li><a href="/about.html">about</a></li>
-            </ul>
-		</div>
 
-		<h3><a href="/">Josh and Erin</a></h3>	
-		
-	</header>
-	
-	<!-- If you want to use an element as a wrapper, i.e. for styling only, then <div> is still the element to use -->
-	<div class="wrap content shadow">
-	
-        {{ content }}
-		
-	</div>
-	
-	<!-- The main page footer can contain items such as copyright and contact information. It can also contain a duplicated navigation of your site which is not usually contained within a <nav> -->
-	<!-- ARIA: the landmark role "contentinfo" is added here as it contains metadata that applies to the parent document -->
-	<footer role="contentinfo" style="margin: 10px 5px;">
+    <div class="row">
 
-        <small class="pull-right">Lovingly concocted by <a href="http://jekyllrb.com/">Jekyll</a></small>
+        <div class="span4">
 
-		<!-- Copyright information can be contained within the <small> element. The <time> element is used here to indicate that the '2012' is a date -->
-		<small>Copyright &copy; <a href="http://joshbranchaud.com">Josh Branchaud</a> <time datetime="2013">2013</time></small>
-		
-	</footer>
+            <h1>Josh and Erin</h1>
+
+            <img src="" />
+
+            <p>Some blurb of text about us or perhaps even some links to pages.
+            You never know.</p>
+
+        </div>
+
+        <div class="span8">
+
+        <div class="wrap content shadow">
+
+            {{ content }}
+
+        </div>
+
+	        <footer role="contentinfo" style="margin: 10px 5px;">
+
+                <small class="pull-right">Lovingly concocted by <a href="http://jekyllrb.com/">Jekyll</a></small>
+
+                <!-- Copyright information can be contained within the <small> element. The <time> element is used here to indicate that the '2012' is a date -->
+                <small>Copyright &copy; <a href="http://joshbranchaud.com">Josh Branchaud</a> <time datetime="2013">2013</time></small>
+
+            </footer>
+
+        </div>
 
     </div>
-	
-	<!-- Google Analytics - change the UA-XXXX-XX string to your site's ID -->
+    
+    <!-- Google Analytics - change the UA-XXXX-XX string to your site's ID -->
 	<script>
 		var _gaq = _gaq || [];
 	 	_gaq.push(['_setAccount', 'UA-XXXXXXXXX']);
