@@ -37,6 +37,10 @@ div#posts ul {
     list-style: none;
     margin: 0;
 }
+div#post-header {
+    /*border-bottom: 1px solid lightgray;*/
+    border-top: 4px solid lightgray;
+}
 .container {
     padding: 10px;
     position: relative;
@@ -60,6 +64,7 @@ div#posts ul {
 .content h1.post-title {
     padding-bottom: 2px;
     border-bottom: solid 1px lightgray;
+    border-top: solid 4px lightgray;
 }
 .content h1 small {
     font-size: 20.5px;
