@@ -17,6 +17,16 @@ p > code {
 }
 div#sidebar {
 }
+div#main {
+
+}
+div#posts {
+
+}
+div#posts ul {
+    list-style: none;
+    margin: 0;
+}
 .container {
     padding: 10px;
     position: relative;
