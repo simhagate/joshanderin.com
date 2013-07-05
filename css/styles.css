@@ -17,6 +17,16 @@ p > code {
 }
 div#sidebar {
 }
+div#sidebar > * {
+    text-align: center;
+}
+/*
+div#sidebar-image {
+    background:url(/img/joshanderin.png) no-repeat center center;
+    width: 370px;
+    height: 320px;
+}
+*/
 div#main {
 
 }
