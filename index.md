@@ -9,11 +9,14 @@ title: Josh and Erin
     {% for post in site.posts %}
         <li>
             <h2>
+            <small class="pull-right">
+                {{ post.date | date: "%B %d, %Y" }}
+            </small>
             <a href="{{ post.url }}">
                 {{ post.title }}
             </a>
             <small>
-                {{ post.date | date: "%B %d, %Y" }}
+                by {{ post.author }}
             </small>
             </h2>
             {{ post.content }}
