@@ -20,6 +20,10 @@ div#sidebar {
 div#sidebar > * {
     text-align: center;
 }
+div#sidebar > img {
+    display: block;
+    margin: auto;
+}
 /*
 div#sidebar-image {
     background:url(/img/joshanderin.png) no-repeat center center;
