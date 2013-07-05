@@ -23,6 +23,7 @@ div#sidebar > * {
 div#sidebar > img {
     display: block;
     margin: auto;
+    margin-bottom: 10px;
 }
 /*
 div#sidebar-image {
@@ -40,6 +41,9 @@ div#posts {
 div#posts ul {
     list-style: none;
     margin: 0;
+}
+div#posts ul li {
+    margin-bottom: 20px;
 }
 div#post-header {
     /*border-bottom: 1px solid lightgray;*/
