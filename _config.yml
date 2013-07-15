@@ -1,3 +1,4 @@
 permalink: /:categories/:year/:month/:day/:title.html
+baseurl: /joshanderin.com
 exclude:
 - README.md
