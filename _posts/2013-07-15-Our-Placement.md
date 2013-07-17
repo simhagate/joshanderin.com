@@ -24,6 +24,8 @@ So here it is… We will be living in
 [Grand Bourg](http://en.wikipedia.org/wiki/Grand_Bourg),
 a town in the greater Buenos Aires area, Argentina!
 
+![Grand Bourg, Argentina](http://i.imgur.com/ikhW4Jh.jpg)
+
 Our shared site will be a congregation called San Lucas, part of the IELU
 (Iglesia Evangélica Luterana Unida). Fun Fact: The IELU is a companion synod
 of our Nebraska Synod, ELCA! Both of us will also have second site, which
