@@ -24,7 +24,7 @@ In the short-term, we
 need financial support. If you would like to support us financially, you can
 [download this giving
 form](https://github.com/jbranchaud/joshanderin.com/raw/gh-pages/static/YAGMGivingFormBranchaud.pdf)
-and follow the instructions for making sure the funds are designatd to us.
+and follow the instructions for making sure the funds are designated to us.
 In the long-term, we need the prayers and encouragement of a community that
 *sends* us on this year of service. So, keep us in mind this coming year
 by following this blog and keeping an eye out for our monthly newsletters.
