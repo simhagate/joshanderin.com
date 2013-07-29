@@ -63,6 +63,20 @@ div#post-header {
     box-shadow:         2px 2px 5px 1px #888;
 }
 
+/* Styling for a banner that appears at the top of the page */
+#top-banner {
+    background: #0B5FA5;
+    color: #FFF;
+    text-align: center;
+}
+
+#top-banner a {
+    color: #BBB;
+}
+#top-banner a:hover {
+    color: #999
+}
+
 /* styling specifically for the content of a post */
 .content h1 {
     font-size: 22.5px;
