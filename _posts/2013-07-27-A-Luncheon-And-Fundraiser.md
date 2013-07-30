@@ -15,7 +15,7 @@ If you plan to attend the event, please
 [RSVP](http://joshanderin-luncheon-fundraiser.eventbrite.com/).
 
 If you are interested in the silent auction, [take a look at some
-of the photography](http://joshanderin.com/SilentAuction.html)
+of the photography]({{ site.baseurl }}/SilentAuction.html)
 that will be up for auction.
 
 Don't worry if you cannot make it to this event, there are still ways to
