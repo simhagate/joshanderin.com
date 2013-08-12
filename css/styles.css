@@ -77,6 +77,20 @@ div#post-header {
     color: #999
 }
 
+/* styling for navigation list at top of default layout */
+
+#nav-list {
+    text-align: center;
+}
+#nav-list li {
+    display: inline;
+}
+#nav-list a {
+    display: inline-block;
+    padding: 5px 15px;
+    font-weight: bold;
+}
+
 /* styling specifically for the content of a post */
 .content h1 {
     font-size: 22.5px;
