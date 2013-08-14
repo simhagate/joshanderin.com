@@ -63,6 +63,15 @@ div#post-header {
     box-shadow:         2px 2px 5px 1px #888;
 }
 
+#post-list {
+    list-style: none;
+    margin: 0;
+}
+#post-list li {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #BBB;
+}
+
 /* Styling for a banner that appears at the top of the page */
 #top-banner {
     background: #0B5FA5;

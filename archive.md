@@ -5,7 +5,7 @@ title: Blog Archive
 
 # {{ page.title }}
 
-<ul>
+<ul id="post-list">
 {% for post in site.posts %}
     <li>
         <small>{{ post.date | date: "%m/%d/%y" }}</small>
