@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Us
+title: Staying In Touch
 ---
 
 Josh's Email: jbranchaud@gmail.com
