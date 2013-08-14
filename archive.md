@@ -8,7 +8,7 @@ title: Blog Archive
 <ul id="post-list">
 {% for post in site.posts %}
     <li>
-        <small>{{ post.date | date: "%m/%d/%y" }}</small>
+        <small>{{ post.date | date: "%B %d, %Y" }}</small>
         <a href="{{ post.url }}">
             {{ post.title }}
         </a>
