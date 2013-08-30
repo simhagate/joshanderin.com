@@ -29,13 +29,11 @@ Yesterday in our Castellano class, we learned some tongue twisters
 > El aro de oro en la cara del loro
 
 
-> Si tu gusto gustara del gusto
+> Si tu gusto gustara del gusto que gusta mi gusto,
 >
-> Que gusta mi gusto, mi gusto gustaria
+> mi gusto gustaria del gusto que gusta tu gusto.
 >
-> Del gusto que gusta tu gusto
+> Pero como tu gusto no gusta del gusto que gusta mi gusto,
 >
-> Pero como tu gusto no gusta del gusto
->
-> Que gusta mi gusto, mi gusto no gusta del
+> mi gusto no gusta del gusto que gusta tu gusto.
 >
