@@ -18,4 +18,4 @@ cake, but the San Lucas congregation thought differently. After this
 morning's church service, they surprised us with singing, a gift\*, and a
 cake, a fresh cake at that!
 
-\*a mate gourd and bombilla (straw)
+\*a mate gourd and bombilla (straw) as well as some honey
