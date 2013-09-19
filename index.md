@@ -6,7 +6,7 @@ title: Josh and Erin
 <div id="posts">
 
     <ul>
-    {% for post in site.posts %}
+    {% for post in site.posts offset: 0 limit: 10 %}
         <li>
             <div id="post-header">
             <h2>
