@@ -40,5 +40,3 @@ Stools - Week 2 - 08/22/2013
 <a href="http://www.flickr.com/photos/jbranchaud/9802358784/" title="Grazing - Week 01 - 20130817 by jbranchaud, on Flickr"><img src="http://farm3.staticflickr.com/2892/9802358784_ab975e49e4_c.jpg" width="800" height="600" alt="Grazing - Week 01 - 20130817"></a>
 
 Grazing - Week 1 - 08/17/2013
-
-<hr />
