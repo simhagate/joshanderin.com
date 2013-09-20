@@ -13,7 +13,7 @@ posted here.
 Each week I will post a new photo from that week in my *52 in Argentina*
 set on Flickr. I will also post those photos here.
 
-<a href="http://www.flickr.com/photos/jbranchaud/9802384803/" title="Homemade Empanadas - Week 05 - 20130914 by jbranchaud, on Flickr"><img src="http://farm4.staticflickr.com/3834/9802384803_73bbdd5853_c.jpg" width="600" height="800" alt="Homemade Empanadas - Week 05 - 20130914"></a>
+<a href="http://www.flickr.com/photos/jbranchaud/9802384803/" title="Homemade Empanadas - Week 05 - 20130914 by jbranchaud, on Flickr"><img src="http://farm4.staticflickr.com/3834/9802384803_73bbdd5853_z.jpg" width="480" height="640" alt="Homemade Empanadas - Week 05 - 20130914"></a>
 
 Week 5 - Homemade Empanadas - 09/14/2013
 
