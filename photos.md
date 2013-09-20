@@ -13,6 +13,12 @@ posted here.
 Each week I will post a new photo from that week in my *52 in Argentina*
 set on Flickr. I will also post those photos here.
 
+<a href="http://www.flickr.com/photos/jbranchaud/9802412733/" title="Stools - Week 02 - 20130822 by jbranchaud, on Flickr"><img src="http://farm8.staticflickr.com/7421/9802412733_e7ba7d8a22_c.jpg" width="800" height="450" alt="Stools - Week 02 - 20130822"></a>
+
+Week 2 - Stools - 08/22/2013
+
+<hr />
+
 <a href="http://www.flickr.com/photos/jbranchaud/9802358784/" title="Grazing - Week 01 - 20130817 by jbranchaud, on Flickr"><img src="http://farm3.staticflickr.com/2892/9802358784_ab975e49e4_c.jpg" width="800" height="600" alt="Grazing - Week 01 - 20130817"></a>
 
 Week 1 - Grazing - 08/17/2013
