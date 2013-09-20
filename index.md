@@ -28,8 +28,10 @@ title: Josh and Erin
     {% endfor %}
     </ul>
 
+	<hr />
+
     <center>
-        <a href="{{ site.baseurl }}/allposts.html">View All Posts</a>
+        <a href="{{ site.baseurl }}/allposts.html">See More Posts</a>
     </center>
 
 </div>
