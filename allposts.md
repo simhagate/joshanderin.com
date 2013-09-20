@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Josh and Erin
+title: All Posts
 ---
 
 <div id="posts">
 
+    <h1>All Posts</h1>
+
     <ul>
-    {% for post in site.posts offset: 0 limit: 10 %}
+    {% for post in site.posts %}
         <li>
             <div id="post-header">
             <h2>
@@ -27,9 +29,5 @@ title: Josh and Erin
         </li>
     {% endfor %}
     </ul>
-
-    <center>
-        <a href="{{ site.baseurl }}/allposts.html">View All Posts</a>
-    </center>
 
 </div>
