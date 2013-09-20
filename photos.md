@@ -13,6 +13,12 @@ posted here.
 Each week I will post a new photo from that week in my *52 in Argentina*
 set on Flickr. I will also post those photos here.
 
+<a href="http://www.flickr.com/photos/jbranchaud/9802326235/" title="Hasta La Victoria Siempre - Week 03 - 20130829 by jbranchaud, on Flickr"><img src="http://farm4.staticflickr.com/3680/9802326235_c3014b600b_c.jpg" width="800" height="534" alt="Hasta La Victoria Siempre - Week 03 - 20130829"></a>
+
+Week 3 - Hasta La Victoria Siempre - 08/29/2013
+
+<hr />
+
 <a href="http://www.flickr.com/photos/jbranchaud/9802412733/" title="Stools - Week 02 - 20130822 by jbranchaud, on Flickr"><img src="http://farm8.staticflickr.com/7421/9802412733_e7ba7d8a22_c.jpg" width="800" height="450" alt="Stools - Week 02 - 20130822"></a>
 
 Week 2 - Stools - 08/22/2013
