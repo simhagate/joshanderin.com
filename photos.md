@@ -14,6 +14,15 @@ Each week I will post a new photo from that week in my
 [*52 in Argentina*](http://www.flickr.com/photos/jbranchaud/sets/72157635619891486/with/9802384803/)
 set on Flickr. I will also post those photos here.
 
+<a href="http://www.flickr.com/photos/jbranchaud/10008454366/"
+title="Semi-domestic - Week 7 - 20130923 by jbranchaud, on Flickr"><img
+src="http://farm4.staticflickr.com/3811/10008454366_235b4ac5bc_c.jpg"
+width="800" height="450" alt="Semi-domestic - Week 7 - 20130923"></a>
+
+Semi-domestic - Week 7 - 09/23/2013
+
+<hr />
+
 <a href="http://www.flickr.com/photos/jbranchaud/9882965295/" title="Hello,
 Sunshine - Week 06 - 20130919 by jbranchaud, on Flickr"><img
 src="http://farm8.staticflickr.com/7324/9882965295_6409a86c2c_c.jpg"
