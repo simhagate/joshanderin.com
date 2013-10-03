@@ -51,6 +51,12 @@ up at night, but in the sunlight of morning it opens back up.
 
 Homemade Empanadas - Week 5 - 09/14/2013
 
+<small>
+Erin and I about to eat some ham, cheese, and egg empanadas that we made at
+our casita. We will be eating a lot of empanadas this year. They are
+delicious and they are everywhere.
+</small>
+
 <hr />
 
 <a href="http://www.flickr.com/photos/jbranchaud/9802348214/" title="Milanesa - Week 04 - 20130903 by jbranchaud, on Flickr"><img src="http://farm6.staticflickr.com/5347/9802348214_621ed021f7_c.jpg" width="800" height="534" alt="Milanesa - Week 04 - 20130903"></a>
