@@ -63,6 +63,12 @@ delicious and they are everywhere.
 
 Milanesa - Week 4 - 09/03/2013
 
+<small>
+A pile of milanesa (flat, breaded beef) ready to be fried up on the stove in
+some oil. It is a delicious Argentine dish that is sometimes made more
+irresistible by smothering it in tomato sauce and cheese.
+</small>
+
 <hr />
 
 <a href="http://www.flickr.com/photos/jbranchaud/9802326235/" title="Hasta La Victoria Siempre - Week 03 - 20130829 by jbranchaud, on Flickr"><img src="http://farm4.staticflickr.com/3680/9802326235_c3014b600b_c.jpg" width="800" height="534" alt="Hasta La Victoria Siempre - Week 03 - 20130829"></a>
