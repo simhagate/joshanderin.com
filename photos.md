@@ -39,6 +39,12 @@ width="800" height="450" alt="Hello, Sunshine - Week 06 - 20130919"></a>
 
 Hello, Sunshine - Week 6 - 09/19/2013
 
+<small>
+Erin purchased this gorgeous flower from a street vendor outside of the
+grocery store that we frequent. He explained to her that the flower closes
+up at night, but in the sunlight of morning it opens back up.
+</small>
+
 <hr />
 
 <a href="http://www.flickr.com/photos/jbranchaud/9802384803/" title="Homemade Empanadas - Week 05 - 20130914 by jbranchaud, on Flickr"><img src="http://farm4.staticflickr.com/3834/9802384803_73bbdd5853_z.jpg" width="480" height="640" alt="Homemade Empanadas - Week 05 - 20130914"></a>
