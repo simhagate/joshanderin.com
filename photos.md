@@ -21,6 +21,15 @@ width="800" height="450" alt="Semi-domestic - Week 7 - 20130923"></a>
 
 Semi-domestic - Week 7 - 09/23/2013
 
+<small>
+One of the many cats that live in and around the yard adjoined with our
+casita. They all live outside, (usually) run at the sight of an approaching
+human, and do not appear to belong to anyone – although I understand the
+woman next door sometimes puts food out for them. While talking about them,
+someone referred to them as ‘semi-domestic’, which seems like an apt
+description.
+</small>
+
 <hr />
 
 <a href="http://www.flickr.com/photos/jbranchaud/9882965295/" title="Hello,
