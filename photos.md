@@ -88,6 +88,15 @@ Argentina's clandestine detention centers.
 
 Stools - Week 2 - 08/22/2013
 
+<small>
+Scattered all over the city of Buenos Aires are small parks and plazas that
+each take up about a city block. They are places for people to gather to
+walk, talk, play, and enjoy being outside. Some have playground equipment,
+most have benches and stools, and every once in a while one will have
+workout equipment. One of first things we did when we got to Buenos Aires
+was go to one of these parks.
+</small>
+
 <hr />
 
 <a href="http://www.flickr.com/photos/jbranchaud/9802358784/" title="Grazing - Week 01 - 20130817 by jbranchaud, on Flickr"><img src="http://farm3.staticflickr.com/2892/9802358784_ab975e49e4_c.jpg" width="800" height="600" alt="Grazing - Week 01 - 20130817"></a>
