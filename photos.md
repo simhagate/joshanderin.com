@@ -75,6 +75,13 @@ irresistible by smothering it in tomato sauce and cheese.
 
 Hasta La Victoria Siempre - Week 3 - 08/29/2013
 
+<small>
+Every Thursday at 3:30 in the afternoon this group of mothers and
+grandmothers marches at the Plaza de Mayo (in downtown Buenos Aires) for the
+men, women, and children disappeared (los desaparecidos) during the years of
+Argentina's clandestine detention centers.
+</small>
+
 <hr />
 
 <a href="http://www.flickr.com/photos/jbranchaud/9802412733/" title="Stools - Week 02 - 20130822 by jbranchaud, on Flickr"><img src="http://farm8.staticflickr.com/7421/9802412733_e7ba7d8a22_c.jpg" width="800" height="450" alt="Stools - Week 02 - 20130822"></a>
