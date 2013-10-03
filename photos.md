@@ -102,3 +102,12 @@ was go to one of these parks.
 <a href="http://www.flickr.com/photos/jbranchaud/9802358784/" title="Grazing - Week 01 - 20130817 by jbranchaud, on Flickr"><img src="http://farm3.staticflickr.com/2892/9802358784_ab975e49e4_c.jpg" width="800" height="600" alt="Grazing - Week 01 - 20130817"></a>
 
 Grazing - Week 1 - 08/17/2013
+
+<small>
+Before heading off to Argentina for our YAGM year, everyone in the 2013-2014
+YAGM program met in Chicago for a week of orientation. This orientation
+better equipped us for the challenges, joys, and disappointments of the
+coming year. The orientation took place on the beautiful campus of the
+Lutheran School of Theology at Chicago (LSTC). There was a green space in
+the center of the campus lined with flowers like the ones above.
+</small>
