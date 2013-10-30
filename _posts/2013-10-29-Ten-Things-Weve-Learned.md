@@ -11,9 +11,9 @@ Parilla - 20131013 by jbranchaud, on Flickr"><img
 src="http://farm8.staticflickr.com/7351/10578749713_e5049b5001_z.jpg"
 width="640" height="360" alt="Full Parilla - 20131013"></a>
 <figcaption>
-A San Lucas family (Blanca, Alejandro, Macarena, and Enzo) invited us to
-their home for an asado that included chorizo, chicken, steak, and
-tortillas.
+Chorizo, chicken, steak, and tortillas cook over hot coals during our first
+asado at the home of
+a San Lucas family (Blanca, Alejandro, Macarena, and Enzo).
 </figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ payment.
 
 6. The birthday party of a 15 year-old girl (a quinceañera) can and will last
 until 6:00am. And it’s not just the young partiers that stay that late (or
-rather early)
+rather, early),
 even families with small children dance till it’s dawn.
 
 7. How to make many traditional kinds of Argentine food such as guiso (a meat
