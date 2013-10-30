@@ -214,6 +214,7 @@ figure figcaption {
     bottom: 0px;
     background: rgba(200,200,200,0.7);
     display: inline;
+    line-height: 150%;
 }
 figure:hover figcaption {
     display: none;
