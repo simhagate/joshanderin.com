@@ -5,10 +5,16 @@ summary:
 author: Erin
 ---
 
+<figure>
 <a href="http://www.flickr.com/photos/jbranchaud/9878210346/" title="Unión -
 20130919 by jbranchaud, on Flickr"><img
 src="http://farm3.staticflickr.com/2886/9878210346_bfe14fbda1_z.jpg"
 width="640" height="480" alt="Unión - 20130919"></a>
+<figcaption>
+Our first bag of yerba mate along with our first mate gourd and bombilla
+which were given to us as a first wedding anniversary present.
+</figcaption>
+</figure>
 
 One of the very first things we learned about Argentina, even before we set
 foot here, was the importance of *mate* (pronounced MAH-tay). In our time in
