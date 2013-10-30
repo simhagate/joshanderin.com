@@ -203,6 +203,7 @@ figure {
     font-size: smaller;
     background: white;
     size: auto;
+    margin-bottom: 1.0em;
 }
 figure img {
     display: block;
