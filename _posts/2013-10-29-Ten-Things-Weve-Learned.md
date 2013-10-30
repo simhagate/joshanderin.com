@@ -5,6 +5,18 @@ summary:
 author: Josh and Erin
 ---
 
+<figure>
+<a href="http://www.flickr.com/photos/jbranchaud/10578749713/" title="Full
+Parilla - 20131013 by jbranchaud, on Flickr"><img
+src="http://farm8.staticflickr.com/7351/10578749713_e5049b5001_z.jpg"
+width="640" height="360" alt="Full Parilla - 20131013"></a>
+<figcaption>
+A San Lucas family (Blanca, Alejandro, Macarena, and Enzo) invited us to
+their home for an asado that included chorizo, chicken, steak, and
+tortillas.
+</figcaption>
+</figure>
+
 A list of ten things (in no particular order) we’ve learned so far living in
 Argentina:
 
