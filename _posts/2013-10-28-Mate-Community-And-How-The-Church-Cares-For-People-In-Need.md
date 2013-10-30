@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mate, Community, and how the Church cares for people in need
+title: Mate, community, and how the Church cares for people in need
 summary:
 author: Erin
 ---
@@ -36,18 +36,18 @@ out of the same mate gourd and uses the same bombilla. Depending on the
 number of people sharing the mate, several minutes might pass before it’s
 your turn to drink again. So if you’re looking simply to satisfy your thirst
 or benefit from the caffeine, it would be better to drink a bottle of Coke
-all by yourself. Mate is not about thirst or caffeine, it is about
+all by yourself. Mate is not primarily about thirst or caffeine, but about
 togetherness and friendship.
 
 There are a few individuals and families that pass by our church every so
 often to ask for a small bag of food to help them get by. These bags usually
-include rice, lentils, sugar, flour, and… mate. Josh noted one day that at
+include rice, lentils, sugar, flour, and… mate. Josh noted that at
 first glance, mate seems to be the odd thing out in these bags. The other
 items are staples; basic things that help the person survive. Mate, on the
 other hand, doesn’t provide any physical nourishment, yet it is always
 included in these basic food kits. Why?
 
-Mate doesn’t satisfy a physical need, but rather satisfies a social,
+We have come to realize that mate doesn’t satisfy a physical need, but rather satisfies a social,
 emotional, spiritual need for community and identity. Mate is part of being
 an Argentinean, just like eating is part of being human. In providing mate
 for these families, the church is helping not only to sustain them
