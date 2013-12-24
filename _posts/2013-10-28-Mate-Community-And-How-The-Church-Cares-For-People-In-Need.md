@@ -5,7 +5,7 @@ summary:
 author: Erin
 ---
 
-<figure>
+<figure class="embed hide-smooth">
 <a href="http://www.flickr.com/photos/jbranchaud/9878210346/" title="Unión -
 20130919 by jbranchaud, on Flickr"><img
 src="http://farm3.staticflickr.com/2886/9878210346_bfe14fbda1_z.jpg"
