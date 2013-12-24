@@ -187,3 +187,8 @@ div#homepage p {
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
+/* captioned images */
+figure {
+    margin-bottom: 1.0em;
+}
