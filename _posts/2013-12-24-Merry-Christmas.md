@@ -4,10 +4,16 @@ title: Merry Christmas
 author: Josh
 ---
 
+<figure class="embed hide-smooth">
 <a href="http://www.flickr.com/photos/jbranchaud/11554485736/" title="Merry
 Christmas by jbranchaud, on Flickr"><img
 src="http://farm6.staticflickr.com/5488/11554485736_5c965e455c_z.jpg"
 width="640" height="480" alt="Merry Christmas"></a>
+<figcaption>
+Josh and Erin posing next to a prop Christmas tree just after the nativity
+play at Congregación San Lucas.
+</figcaption>
+</figure>
 
 It feels a bit strange to say those words -- *Merry Christmas* -- right now.
 Frankly, I am having a little trouble getting into the Christmas spirit.
