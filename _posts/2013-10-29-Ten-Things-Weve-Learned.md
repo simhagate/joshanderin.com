@@ -5,7 +5,7 @@ summary:
 author: Josh and Erin
 ---
 
-<figure>
+<figure class="embed hide-smooth">
 <a href="http://www.flickr.com/photos/jbranchaud/10578749713/" title="Full
 Parilla - 20131013 by jbranchaud, on Flickr"><img
 src="http://farm8.staticflickr.com/7351/10578749713_e5049b5001_z.jpg"
