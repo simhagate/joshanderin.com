@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relfections on a funeral
+title: Reflections on a funeral
 author: Erin
 ---
 
