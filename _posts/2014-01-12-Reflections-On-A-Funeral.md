@@ -30,6 +30,17 @@ dirt in my hand and help bury her.
 Ashes to ashes, dust to dust. Death is not an abstract disappearance of a
 person, but a real, physical, fleshy, earthy event.
 
+<figure class="embed hide-smooth">
+<a href="http://www.flickr.com/photos/jbranchaud/11922624753/" title="Celia
+at the Pesebre by jbranchaud, on Flickr"><img
+src="http://farm4.staticflickr.com/3733/11922624753_fd88b6791e.jpg"
+width="500" height="375" alt="Celia at the Pesebre"></a>
+<figcaption>
+Celia holds a candle and sings <em>Noche de paz</em> (Silent Night) during
+the San Lucas Christmas pageant.
+</figcaption>
+</figure>
+
 I only met Celia once, but she is a big deal for me, and I’ll tell you why.
 Blanca, an active member of Congregación San Lucas, has been one of the most
 important people in our experience in Grand Bourg. She and her family have
