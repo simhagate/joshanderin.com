@@ -4,7 +4,7 @@ title: Reflections on a funeral
 author: Erin
 ---
 
-Celia, a beloved woman from Congregación San Lucas passed away Thursday
+Celia, a beloved woman from Congregación San Lucas, passed away Thursday
 morning. She hadn’t been exceptionally sick, but she had been growing weaker
 and sicker for some time.
 
