@@ -192,6 +192,9 @@ div#homepage p {
 figure {
     margin-bottom: 1.0em;
 }
+figure.embed,figure.embed-top,figure.overlay {
+    margin-bottom: 1.0em;
+}
 figcaption {
     line-height: 1.6em;
 }
