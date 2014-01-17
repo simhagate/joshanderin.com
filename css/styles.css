@@ -1,7 +1,7 @@
 
 body {
     padding: 20px;
-    /*background: url({{ site.baseurl }}/img/yellow_background2.png);*/
+    background: url(/img/yellow_background2_small.png);
 }
 a {
     color: #0B5FA5;
