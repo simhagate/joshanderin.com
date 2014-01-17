@@ -5,7 +5,11 @@ layout: default
 <div id="post-header">
 
     <h2>
-        <small class="pull-right">{{ page.date | date: "%B %d, %Y" }}</small>
+        <small class="pull-right">
+            <time datetime="{{ page.date | date: "%Y-%m-%d" }}">
+            {{ page.date | date: "%B %d, %Y" }}
+            </time>
+        </small>
 
         <a href="{{ page.url }}">
             {{ page.title }}
