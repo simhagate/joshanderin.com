@@ -3,35 +3,22 @@
 <head>
 	<!-- Define the page charset to be utf-8 -->
 	<meta charset="utf-8" />
-	
+
     <title>{{ page.title }}</title>
-	
+
 	<!-- Enter a brief description of your page -->
 	<meta name="description" content="">
-	
+
 	<!-- Define a viewport to mobile devices to use - telling the browser to assume that the page is as wide as the device (width=device-width) and setting the initial page zoom level to be 1 (initial-scale=1.0) -->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	
-	<!-- Add normalize.css which enables browsers to render all elements more consistently and in line with modern standards as it only targets particular styles that need normalizing -->
-    <link href="{{ site.baseurl }}/css/normalize.css" rel="stylesheet" media="all" />
-
-    <!-- Add bootstrap which makes everything better -->
-    <link href="{{ site.baseurl }}/css/readable-bootstrap.min.css" rel="stylesheet" media="all" />
-    <!--
-    <link href="/css/font-awesome.min.css" rel="stylesheet" media="all" />
-    -->
-    <!--
-    <link href="/css/bootstrap.min.css" rel="stylesheet" />
-    -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link href="{{ site.baseurl }}/css/bootstrap-responsive.min.css" rel="stylesheet" />
+	<link href="{{ site.baseurl }}/bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
 
     <!-- Include captionss.css for image captions -->
-    <link href="{{ site.baseurl }}/css/captionss.min.css" rel="stylesheet" media="all" />
+    <link href="{{ site.baseurl }}bower_components/captionss/captionss.min.css" rel="stylesheet" media="all" />
 
 	<!-- Include the site stylesheet -->
     <link href="{{ site.baseurl }}/css/styles.css" rel="stylesheet" media="all" />
-	
+
 	<!-- Include the HTML5 shiv and shiv print polyfills for Internet Explorer browsers 8 and below -->
 	<!--[if lt IE 9]>
 		<script src="/js/html5shiv.js" media="all"></script>
@@ -50,11 +37,11 @@
     <div class="container pull-left">
 
 	<!-- The page header typically contains items such as your site heading, logo and possibly the main site navigation -->
-	<!-- ARIA: the landmark role "banner" is set as it is the prime heading or internal title of the page --> 
+	<!-- ARIA: the landmark role "banner" is set as it is the prime heading or internal title of the page -->
 
     <div class="row">
 
-        <div class="span4" id="sidebar">
+        <div class="col-md-4" id="sidebar">
 
             <a href="{{ site.baseurl }}/">
                 <h1>Josh and Erin</h1>
@@ -83,7 +70,7 @@
 
         </div>
 
-        <div class="span8" id="main">
+        <div class="col-md-8" id="main">
 
             <ul id="nav-list">
                 <li><a href="{{ site.baseurl }}/about.html">About Us</a></li>
@@ -122,19 +109,19 @@
         </div>
 
     </div>
-    
+
     <!-- Google Analytics - change the UA-XXXX-XX string to your site's ID -->
 	<script>
 		var _gaq = _gaq || [];
 	 	_gaq.push(['_setAccount', 'UA-42584249-1']);
 	  	_gaq.push(['_trackPageview']);
-	
+
 	  	(function() {
 	    		var ga = document.createElement('script'); ga.async = true;
 	    		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	    		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  	})();
 	</script>
-	
+
 </body>
 </html>
