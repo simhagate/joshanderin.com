@@ -3,6 +3,7 @@ body {
     padding: 20px;
     background: url(/img/yellow_background2_small.png);
   font-family: "Lora",Georgia,"Times New Roman",Times,serif;
+  font-size: 16px;
 }
 h1, h2 {
   font-weight: bold;
