@@ -2,6 +2,7 @@
 body {
     padding: 20px;
     background: url(/img/yellow_background2_small.png);
+    font-family: 'Open Sans', sans-serif;
 }
 a {
     color: #0B5FA5;
