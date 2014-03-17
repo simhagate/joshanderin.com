@@ -1,0 +1,22 @@
+{
+  "name": "joshanderin",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jbranchaud/joshanderin.com",
+  "authors": [
+    "jbranchaud <jbranchaud@gmail.com>"
+  ],
+  "description": "Josh and Erin's blog",
+  "main": "index.md",
+  "keywords": [
+    "blog"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
