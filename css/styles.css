@@ -17,6 +17,7 @@ a:hover {
 p {
     font-size: 16px;
     line-height: 26px;
+    margin: .6em 0;
 }
 p > code {
     font-size: 14px;
