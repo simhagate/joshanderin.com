@@ -186,6 +186,9 @@ div#post-header {
 .content pre code {
     font-size: 14px;
 }
+.content img {
+    max-width: 100%;
+}
 
 div#homepage {
 
